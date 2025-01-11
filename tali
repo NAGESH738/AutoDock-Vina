@@ -1,0 +1,4 @@
+vina --receptor SUV39H2.pdbqt --ligand ligand.pdbqt \
+--center_x 10 --center_y 12 --center_z 8 \
+--size_x 20 --size_y 20 --size_z 20 \
+--out output.pdbqt
